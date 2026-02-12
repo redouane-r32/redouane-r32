@@ -70,15 +70,65 @@ I am always open to discussing data projects, IT challenges, or potential collab
 
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" height="50">	Classique (Celui qu'on a essayé, lettres grises/bleues)
-<img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" height="50">	Icône Seule (Juste le symbole, très propre)
-V3	<img src="https://www.vectorlogo.zone/logos/vmware/vmware-ar21.svg" height="50">	Large & Moderne (Format rectangulaire officiel)
-V4	<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/VMware_vSphere_logo.png" height="50">	vSphere (Le logo spécifique vSphere)
-V5	<img src="https://cdn.simpleicons.org/vmware/0091DA" height="50">	Flat Blue (Le logo aplati, couleur bleu tech pur)
-V6	<img src="https://cdn.simpleicons.org/vmware/white" style="background-color:black" height="50">	White (Blanc pur - voir sur fond noir)
-V7	<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/VMware_Workstation_Player_logo.png" height="50">	Workstation Player (Le logo orange/bleu du player)
-V8	<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/VMware_Workstation_16_Pro_logo.png" height="50">	Workstation Pro (L'écran bleu, version Pro)
-V9	<img src="https://img.shields.io/badge/vmware-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white" height="50">	Badge (Style rectangulaire type "Bouton")
-V10	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/VMware_Horizon_7_logo.png/640px-VMware_Horizon_7_logo.png" height="50">
+
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" height="50">	Classique (Celui qu'on a essayé, lettres grises/bleues)
+  <img width="15" />
+  <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" height="50">	Icône Seule (Juste le symbole, très propre)
+  <img width="15" />
+  <img src="https://www.vectorlogo.zone/logos/vmware/vmware-ar21.svg" height="50">	Large & Moderne (Format rectangulaire officiel)
+  <img width="15" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/VMware_vSphere_logo.png" height="50">	vSphere (Le logo spécifique vSphere)
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/vmware/0091DA" height="50">	Flat Blue (Le logo aplati, couleur bleu tech pur)
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/vmware/white" style="background-color:black" height="50">	White (Blanc pur - voir sur fond noir)
+  <img width="15" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/VMware_Workstation_Player_logo.png" height="50">	Workstation Player (Le logo orange/bleu du player)
+  <img width="15" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/VMware_Workstation_16_Pro_logo.png" height="50">	Workstation Pro (L'écran bleu, version Pro)
+  <img width="15" />
+  <img src="https://img.shields.io/badge/vmware-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white" height="50">	Badge (Style rectangulaire type "Bouton")
+	<img width="15" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/VMware_Horizon_7_logo.png/640px-VMware_Horizon_7_logo.png" height="50">
+</div>
+
+
+
+
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" alt="python" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="50" style="background-color:white; border-radius:5px; padding:2px;" alt="sql server" />
+  <img width="15" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="40" alt="excel logo" />
+  <img width="15" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" alt="powerbi" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" height="50" alt="r" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tableau-icon.svg" height="50" alt="tableau" />
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 * **Email:** redouane.hamecha00@gmail.com
