@@ -1,5 +1,5 @@
 <div align="center" style="width: 100%; height: 300px; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.19);">
-  <img src="backgroundG.png" style="width: 100%; position: relative; margin-top: -200px;" alt="Bannière Profil">
+  <img src="backgroundGit.png" style="width: 100%; position: relative; margin-top: -200px;" alt="Bannière Profil">
 </div>
 <br>
 
