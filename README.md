@@ -38,7 +38,7 @@ I specialize in bridging the gap between technical complexities and clear, actio
   <img width="15" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="50" alt="docker" />
   <img width="15" />
- <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_Server_logo.svg" height="50" style="background-color:white; padding:3px; border-radius:4px;" alt="windows server" />
+	<img width="15" />
   <img width="15" />
  <img src="https://cdn.simpleicons.org/vmware/0091DA" height="50">	</div>
 
@@ -49,80 +49,5 @@ I specialize in bridging the gap between technical complexities and clear, actio
 ## 🤝 Connect with Me
 
 I am always open to discussing data projects, IT challenges, or potential collaborations.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" height="50">	
-  <img width="15" />
-  <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" height="50">
-  <img width="15" />
-  <img src="https://img.shields.io/badge/vmware-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white" height="50">	
-	<img width="15" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/VMware_Horizon_7_logo.png/640px-VMware_Horizon_7_logo.png" height="50">
-</div>
-
-
-
-
-
-
-
-
-<div align="left">
-	<img src="https://www.svgrepo.com/show/354573/windows-server.svg" height="50">	
-	<img width="15" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50">
-	<img width="15" />
-	<img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Windows_Server_2012_logo.png" height="50">	
-	<img width="15" />
-	<img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Windows_Server_2003_logo.svg" height="50">	
-	<img width="15" />
-	<img src="https://cdn.simpleicons.org/windows/0078D6" height="50">	
-	<img width="15" />	
-	<img src="https://www.svgrepo.com/show/303235/microsoft-windows-logo.svg" height="50">
-v	<img width="15" />
-	<img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="50">	)
-	<img width="15" />
-	<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Microsoft_Azure_logo.svg" height="50">	
-	<img width="15" />	
-	<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" height="50">
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 * **Email:** redouane.hamecha00@gmail.com
