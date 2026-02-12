@@ -1,19 +1,18 @@
 <div align="center">
-  <img src="METS_LE_LIEN_DE_TON_IMAGE_ICI.jpg" width="100%" alt="Banner Redouane Data IT" />
+  <img src="https://images.unsplash.com/photo-1558494949-efc02570fbc9?q=80&w=2600&auto=format&fit=crop" width="100%" height="300px" style="object-fit:cover" alt="Banner Redouane Data IT" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## Hi there 👋  I'm **Redouane**.
+## Hi there 👋 I'm **Redouane**.
 
 I am a **Data Analyst** with a strong foundation in **IT Infrastructure**. My background as a Network & Systems technician gives me a unique perspective on the full data lifecycle—from understanding the server architecture where data resides to extracting valuable insights for business intelligence.
 
 I specialize in bridging the gap between technical complexities and clear, actionable data storytelling. I am passionate about uncovering hidden patterns and optimizing data flows.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🛠️ My favorite tools 
-
+## 🛠️ My favorite tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -40,10 +39,11 @@ I specialize in bridging the gap between technical complexities and clear, actio
   <img width="12" />
   <img src="https://www.svgrepo.com/show/333618/vmware.svg" height="40" alt="vmware logo"  />
 </div>
----
 
-##  Connect with Me
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🤝 Connect with Me
 
 I am always open to discussing data projects, IT challenges, or potential collaborations.
 
-* Email: redouane.hamecha00@gmail.com
+* **Email:** redouane.hamecha00@gmail.com
