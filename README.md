@@ -38,10 +38,7 @@ I specialize in bridging the gap between technical complexities and clear, actio
   <img width="15" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="50" alt="docker" />
   <img width="15" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" height="50" alt="vmware" />
-  <img width="15" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Anthropic_logo.svg" height="50" style="background-color:white; padding:5px; border-radius:5px;" alt="claude" />
-  <img width="15" />
+<img src="https://cdn.simpleicons.org/anthropic/D97757" height="50" alt="Claude AI" />  <img width="15" />
   <img src="https://cdn.simpleicons.org/vmware/0091DA" height="50">	</div>
 
 <p align="center">
