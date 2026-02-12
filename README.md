@@ -40,8 +40,7 @@ I specialize in bridging the gap between technical complexities and clear, actio
   <img width="15" />
  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_Server_logo.svg" height="50" style="background-color:white; padding:3px; border-radius:4px;" alt="windows server" />
   <img width="15" />
- <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" height="50" alt="vmware" />
-</div>
+ <img src="https://cdn.simpleicons.org/vmware/0091DA" height="50">	</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
